@@ -8,3 +8,7 @@
 
 * [How to add bootstrap to rails projects](https://www.digitalocean.com/community/tutorials/how-to-add-bootstrap-to-a-ruby-on-rails-application)
 * [Making a Reddit clone using rails](https://medium.com/@deallen7/how-to-build-a-reddit-like-site-with-ruby-on-rails-7b6cd106463d)
+
+## How to run
+
+as it has the database file, just install dependencies using `bundle` and then run it :-)
